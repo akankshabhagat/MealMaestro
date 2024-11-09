@@ -108,8 +108,7 @@ MealMaestros is constantly evolving. Planned features include:
 - **StrawHatters** - The passionate team behind MealMaestros. Connect with us for feedback, feature requests, or collaboration.
 
 ## License
-
-
+This project is licensed under the MIT License.
 ---
 
 This README now includes the **GitHub Copilot Student Pack** as part of the Tech Stack, emphasizing its role in accelerating development.
