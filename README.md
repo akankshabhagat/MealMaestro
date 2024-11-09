@@ -77,22 +77,6 @@ To run MealMaestros locally, follow these steps:
    cd mealmaestros
    ```
 
-2. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-
-3. **Configure MongoDB Atlas**:
-   - Set up a MongoDB Atlas account and create a database.
-   - Update your environment variables with MongoDB connection details.
-
-4. **Start the server**:
-   ```bash
-   npm start
-   ```
-
-5. **Access the application**:
-   - Go to `http://localhost:3000` in your browser.
 
 ## Usage
 Once logged in, users can explore various features of MealMaestros:
