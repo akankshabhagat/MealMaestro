@@ -76,7 +76,16 @@ To run MealMaestros locally, follow these steps:
    git clone https://github.com/yourusername/mealmaestros.git
    cd mealmaestros
    ```
-
+2. **Install Requirements**
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. **Create a MongoDB Account**
+   Create a **Connection** and acquire the url.
+4. **Start the Server**
+   ```bash
+   streamlit run app.py
+   ``` 
 
 ## Usage
 Once logged in, users can explore various features of MealMaestros:
