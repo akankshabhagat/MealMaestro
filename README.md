@@ -1,9 +1,8 @@
-
-
-
 # MealMaestros
 
 MealMaestros is a personalized meal-planning web application designed to cater to diverse dietary preferences, health goals, and regional tastes. This platform allows users to customize their meal plans according to specific preferences and provides various tools to enhance the meal-planning experience, from calorie tracking to ingredient identification.
+
+[Streamlit App](https://mealmaestro.streamlit.app)
 
 ## Table of Contents
 1. [Features](#features)
