@@ -1,3 +1,5 @@
 google-generativeai
 streamlit
 python-dotenv
+pymongo
+bcrypt 
